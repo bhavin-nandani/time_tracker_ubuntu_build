@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['time_tracker_v_4.py'],
-             pathex=['/home/bacancy/Documents/tracker/tracker_ubuntu16_build'],
+             pathex=['/home/bacancy/Documents/TimeTracker'],
              binaries=[],
              datas=[('/home/bacancy/miniconda3/lib/python3.9/site-packages/eel/eel.js', 'eel'), ('web', 'web')],
              hiddenimports=['bottle_websocket'],
